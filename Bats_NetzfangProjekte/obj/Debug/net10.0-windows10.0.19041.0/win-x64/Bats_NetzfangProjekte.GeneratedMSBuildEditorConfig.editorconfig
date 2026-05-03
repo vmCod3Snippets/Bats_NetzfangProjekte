@@ -48,11 +48,71 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/vvmai/RiderProjects/Bats_NetzfangProjekte/Bats_NetzfangProjekte/MainPage.xaml]
+[C:/Users/vvmai/RiderProjects/Bats_NetzfangProjekte/Bats_NetzfangProjekte/MVVM/Views/BatDetailPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = Bats_NetzfangProjekte.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bats_NetzfangProjekte.MVVM.Views.BatDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\BatDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\BatDetailPage.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/vvmai/RiderProjects/Bats_NetzfangProjekte/Bats_NetzfangProjekte/MVVM/Views/ImpressumPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bats_NetzfangProjekte.MVVM.Views.ImpressumPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\ImpressumPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\ImpressumPage.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/vvmai/RiderProjects/Bats_NetzfangProjekte/Bats_NetzfangProjekte/MVVM/Views/LocationDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bats_NetzfangProjekte.MVVM.Views.LocationDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\LocationDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\LocationDetailPage.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/vvmai/RiderProjects/Bats_NetzfangProjekte/Bats_NetzfangProjekte/MVVM/Views/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bats_NetzfangProjekte.MVVM.Views.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\MainPage.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/vvmai/RiderProjects/Bats_NetzfangProjekte/Bats_NetzfangProjekte/MVVM/Views/ProjectDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bats_NetzfangProjekte.MVVM.Views.ProjectDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\ProjectDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\ProjectDetailPage.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/vvmai/RiderProjects/Bats_NetzfangProjekte/Bats_NetzfangProjekte/MVVM/Views/ProjectListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bats_NetzfangProjekte.MVVM.Views.ProjectListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\ProjectListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\ProjectListPage.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/vvmai/RiderProjects/Bats_NetzfangProjekte/Bats_NetzfangProjekte/Resources/Styles/AppStyles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Bats_NetzfangProjekte.Resources.Styles.AppStyles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\AppStyles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\AppStyles.xaml
 build_metadata.AdditionalFiles.Inflator = SourceGen
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 

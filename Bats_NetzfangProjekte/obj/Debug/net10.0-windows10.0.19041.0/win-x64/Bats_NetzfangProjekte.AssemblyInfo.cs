@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bats_NetzfangProjekte")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e3520f2fd3ab5e2dc15dcba721b98fa34792092d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bats_NetzfangProjekte")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bats_NetzfangProjekte")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

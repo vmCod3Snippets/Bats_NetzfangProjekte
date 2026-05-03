@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ResourceDictionary 
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    
+    <!-- ── FARBEN ── -->
+    <Color x:Key="BgDeep">#0A0C10</Color>
+    <Color x:Key="BgCard">#111520</Color>
+    <Color x:Key="BgCardHover">#1A2035</Color>
+    <Color x:Key="TextPrimary">#ffd39b</Color>
+    <Color x:Key="TextSecondary">#6B7A99</Color>
+    <Color x:Key="TextMuted">#3D4766</Color>
+    <Color x:Key="BorderSubtle">#104e8b</Color>
+    <Color x:Key="DangerRed">#FF4757</Color>
+    
+    <Color x:Key="Beige">#F5F5DC</Color>
+    <Color x:Key="burlywood">#ffd39b</Color>
+    <Color x:Key="dodgerblue">#104e8b</Color>
+    
+    
+    
+    
+</ResourceDictionary>
